@@ -2,6 +2,7 @@
   "name": "choropleth-map",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://geomorpholog.github.io/choropleth-map/",
   "dependencies": {
     "@fontsource/oswald": "^5.0.20",
     "@testing-library/jest-dom": "^5.17.0",

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/choropleth-map/static/css/main.5de45c71.css",
+    "main.js": "/choropleth-map/static/js/main.10b1dcd2.js",
+    "static/media/Load.png": "/choropleth-map/static/media/Load.cb160b2f5d17b30bf54e.png",
+    "static/media/oswald-latin-400-normal.woff": "/choropleth-map/static/media/oswald-latin-400-normal.fa6c4af7592d0435ccb7.woff",
+    "static/media/oswald-latin-ext-400-normal.woff": "/choropleth-map/static/media/oswald-latin-ext-400-normal.3fd17df8e09668addfad.woff",
+    "static/media/oswald-latin-400-normal.woff2": "/choropleth-map/static/media/oswald-latin-400-normal.a1415da4d7ad28ef8f9e.woff2",
+    "static/media/oswald-latin-ext-400-normal.woff2": "/choropleth-map/static/media/oswald-latin-ext-400-normal.d7108bdca63550fef74b.woff2",
+    "static/media/oswald-cyrillic-ext-400-normal.woff": "/choropleth-map/static/media/oswald-cyrillic-ext-400-normal.ab9658b7fdccf021cd02.woff",
+    "static/media/oswald-cyrillic-400-normal.woff": "/choropleth-map/static/media/oswald-cyrillic-400-normal.af0096c7acff6802b789.woff",
+    "static/media/oswald-cyrillic-ext-400-normal.woff2": "/choropleth-map/static/media/oswald-cyrillic-ext-400-normal.fc2bffcbf389cc4c283b.woff2",
+    "static/media/oswald-cyrillic-400-normal.woff2": "/choropleth-map/static/media/oswald-cyrillic-400-normal.30ed48bad009b7cadc37.woff2",
+    "static/media/oswald-vietnamese-400-normal.woff": "/choropleth-map/static/media/oswald-vietnamese-400-normal.324e1553f920eead03fe.woff",
+    "static/media/oswald-vietnamese-400-normal.woff2": "/choropleth-map/static/media/oswald-vietnamese-400-normal.a3465efd849ea2f438ef.woff2",
+    "index.html": "/choropleth-map/index.html",
+    "main.5de45c71.css.map": "/choropleth-map/static/css/main.5de45c71.css.map",
+    "main.10b1dcd2.js.map": "/choropleth-map/static/js/main.10b1dcd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5de45c71.css",
+    "static/js/main.10b1dcd2.js"
+  ]
+}
